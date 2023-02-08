@@ -1,5 +1,5 @@
 import tkinter as tk
-//identifying the variables
+
 def add_task():
     task = task_entry.get()
     tasks.append(task)
